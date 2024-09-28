@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/tree.jpg
-  alt: tree in japan
+  alt: tree
 ---
 
 
