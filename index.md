@@ -9,7 +9,7 @@ profile_picture:
 ## BASIC INFO ABOUT ME
 <p>
   <font size="3">
-Welcome to my personal page! I'm Anqi Zhu, a Ph.D. student in <strong>flood resilience at Ludwig Maximilian University of Munich</strong>. I hold a Master's degree in Sustainable Development Management from Renmin University of China and a Bachelor's degree in Anthropology from Sun Yat-sen University. Here, Here, I will share my Ph.D. journey in Munich.
+Welcome to my personal page! I'm Anqi Zhu, a Ph.D. student in <strong>flood resilience at Ludwig Maximilian University of Munich</strong>. I hold a Master's degree in Sustainable Development Management from Renmin University of China and a Bachelor's degree in Anthropology from Sun Yat-sen University. Here, I will share my Ph.D. journey in Munich.
   </font>
  
 </p>
