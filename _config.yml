@@ -1,12 +1,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Zhili Hu
+title: Anqi Zhu
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "" # the subpath of the site
-url: "https://amoshoo.github.io/" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+url: "https://anqizhu23.github.io/" # the base hostname & protocol for the site
+og_image: /assets/img/tree.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -20,8 +20,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: amoshoo485@gmail.com
-      link: mailto:amoshoo485@gmail.com
+      value: zhuant555@gmail.com
+      link: mailto:zhuant555@gmail.com
  #   - name: WeChat
      # value: YourWeChatUsername
      # link: "#"
@@ -34,7 +34,7 @@ footer:
   #  - name: LinkedIn
     #  link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: https://github.com/amoshoo/
+      link: https://github.com/AnqiZhu23/
   #  - name: Dribbble
     #  link: https://dribbble.com/YourDribbbleUsername
     #- name: RSS
